@@ -1,2 +1,2 @@
 # physics-simulations
-Visualizations of basic physics concepts
+Visualizations of various physical processes
